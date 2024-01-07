@@ -25,7 +25,7 @@ This application harnesses a machine learning model to estimate an individual's 
 3. **Install dependencies:**
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 
 **## Usage**
